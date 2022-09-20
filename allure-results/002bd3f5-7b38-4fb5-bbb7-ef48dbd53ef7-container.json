@@ -1,0 +1,1 @@
+{"uuid":"002bd3f5-7b38-4fb5-bbb7-ef48dbd53ef7","name":"Pages.WelcomePopUpPageTest","children":["a39183f8-8ccd-4e98-aedb-14597c318f3c"],"befores":[{"name":"initWebDriver","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1662491085152,"stop":1662491095207}],"afters":[],"start":1662491084972,"stop":1662491101533}

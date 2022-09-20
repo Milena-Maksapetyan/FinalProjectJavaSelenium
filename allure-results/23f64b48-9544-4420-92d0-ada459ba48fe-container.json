@@ -1,0 +1,1 @@
+{"uuid":"23f64b48-9544-4420-92d0-ada459ba48fe","name":"Pages.SearchFunctionalityPageTest","children":["dae08faa-9904-47b5-9979-3585fdb415e4"],"befores":[{"name":"initWebDriver","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1663497742428,"stop":1663497758826}],"afters":[],"start":1663497742323,"stop":1663497761878}

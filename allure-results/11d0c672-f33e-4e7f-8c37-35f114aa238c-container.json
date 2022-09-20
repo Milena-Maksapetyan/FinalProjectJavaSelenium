@@ -1,0 +1,1 @@
+{"uuid":"11d0c672-f33e-4e7f-8c37-35f114aa238c","name":"Pages.ClearResultHistoryPageTest","children":["7009e3ae-9f02-4cac-a7ab-44397831f551"],"befores":[{"name":"initWebDriver","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1662541163636,"stop":1662541176222}],"afters":[],"start":1662541163382,"stop":1662541184356}
